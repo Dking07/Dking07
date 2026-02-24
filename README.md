@@ -1,16 +1,28 @@
-## Hi there 👋
+# Dking
 
-<!--
-**Dking07/Dking07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FiveM / Lua scripter focused on vehicle handling, debadge & rebadge.
 
-Here are some ideas to get you started:
+**Links:** [Discord](https://discord.gg/Rw6vjcXspG) | [Store](https://dking.tebex.io) | [YouTube](https://www.youtube.com/@_Dking) | [X / Twitter](https://x.com/_Dkiing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- Handling & performance tuning systems
+- Driving/racing tools for servers
+- Standalone scripts with clean configs
+
+## Selected work
+- [**Pursuit Mode**](https://github.com/Dking07/fivem-pursuit-mode)
+    - Vehicle class system + dynamic handling for pursuits.
+- [**Race Path**](https://github.com/Dking07/fivem-race-path)
+    - Record & visualize race lines with accel/brake color trails.
+- [**Gearbox Switch**](https://github.com/Dking07/fivem-gearbox-switch)
+    - Manual gearbox with animations and sounds.
+- [**Vehicle Benchmark**](https://github.com/Dking07/fivem-vehicle-benchmark)
+    - Benchmark runs with delta comparisons.
+- [**Speed Gain Fix**](https://github.com/Dking07/fivem-speed-gain-fix)
+    - Removes unrealistic speed gains / related bugs.
+- [**Advanced Flags Script**](https://github.com/Dking07/fivem-advanced-flags-script)
+    - Applies handling advanced flags automatically.
+
+##
+
+If you run a FiveM server and need custom vehicle work, DM me on Discord.
