@@ -10,6 +10,8 @@ FiveM / Lua scripter focused on vehicle handling, debadge & rebadge.
 - Standalone scripts with clean configs
 
 ## Selected work
+- [**Handling Editor**](https://github.com/Dking07/fivem-handling-editor)
+    - In-game vehicle handling editor with live updates.
 - [**Pursuit Mode**](https://github.com/Dking07/fivem-pursuit-mode)
     - Vehicle class system + dynamic handling for pursuits.
 - [**Race Path**](https://github.com/Dking07/fivem-race-path)
@@ -25,4 +27,4 @@ FiveM / Lua scripter focused on vehicle handling, debadge & rebadge.
 
 ##
 
-If you run a FiveM server and need custom vehicle work, DM me on Discord.
+If you run a FiveM server and need custom vehicle work, DM me on [Discord](https://discord.gg/Rw6vjcXspG).
